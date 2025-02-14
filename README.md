@@ -18,7 +18,7 @@ This project is an interactive envelope animation built with jQuery. When the en
 - The `Audio` object is used to handle the sound playback.
 
 ## 🔗 Live Demo
-(If hosted, provide a link to the live version.)
+(click here to for live preview ](https://aneeshb392.github.io/valantine/))
 
 ## 🤝 Contributing
 Feel free to fork the repository and submit pull requests. Any contributions are welcome!
@@ -27,5 +27,5 @@ Feel free to fork the repository and submit pull requests. Any contributions are
 This project is open-source and available under the MIT License.
 
 ---
-Made with ❤️ by [Your Name](https://github.com/Aneeshb392/)
+Made with ❤️ by [Aneesh B](https://instagram.com/crazy_notics)
 
